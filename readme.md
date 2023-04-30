@@ -10,7 +10,7 @@
 
 **About the project**
 
-TThe Floyd Warshall algorithm is used to find the shortest path between all pairs of vertices in a directed graph, where each edge connecting a pair of vertices has either a positive or negative edge weight. The algorithm calculates the shortest path between every pair of vertices by considering all possible intermediate vertices, and follows a dynamic programming approach. The purpose of this exercise is to rewrite the algorithm to use recursion.
+The Floyd Warshall algorithm is used to find the shortest path between all pairs of vertices in a directed graph, where each edge connecting a pair of vertices has either a positive or negative edge weight. The algorithm calculates the shortest path between every pair of vertices by considering all possible intermediate vertices, and follows a dynamic programming approach. The purpose of this exercise is to rewrite the algorithm to use recursion.
 
 **Requirements**
 
